@@ -1,0 +1,19 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\user\Documents\GitHub\Curso-Capacitacion\Company Courses\Cursos Capacitación.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\user\Documents\GitHub\Curso-Capacitacion\Company Courses\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-18.0.1.1
+Check launcher:	C:\Program Files\Java\jdk-18.0.1.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.1.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\user\Documents\GitHub\Curso-Capacitacion\Company Courses\Cursos Capacitación.exe"
+Args length:	96/32768 chars
+Exit code:	0
